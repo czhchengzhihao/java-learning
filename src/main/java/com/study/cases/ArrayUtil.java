@@ -1,4 +1,4 @@
-package com.study;
+package com.study.cases;
 /**
  * 自定义数据工具类
  */
